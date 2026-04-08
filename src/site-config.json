@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "A-1 Roofing",
+    "phone": "+19152525552",
+    "category": "roofer",
+    "city": "El Paso",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "El Paso's Roofing Experts",
+      "heroSubline": "Protecting your home with quality roofing solutions. Decades of experience serving the El Paso community.",
+      "aboutTitle": "Your Trusted El Paso Roofers",
+      "aboutText": [
+        "A-1 Roofing has been serving the El Paso area for over a decade. Founded by lifelong El Pasoan, we understand the unique challenges our desert climate presents to local homes and businesses. We're not just roofers; we're your neighbors.",
+        "We believe in honest assessments, transparent pricing, and superior workmanship. Our team is dedicated to providing lasting roofing solutions, using only the highest quality materials and proven techniques. We treat every project as if it were our own home.",
+        "We are proud to be a part of the El Paso community. We actively support local charities and organizations. We are committed to providing reliable roofing services that protect our homes and businesses for years to come."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of El Paso's climate and housing styles."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "Using only durable materials built to last in the desert sun."
+        },
+        {
+          "title": "Experienced Team",
+          "description": "Our skilled roofers deliver exceptional workmanship on every project."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "Prompt, professional, and dedicated to your satisfaction."
+        }
+      ],
+      "ctaHeadline": "Protect Your Home Today",
+      "ctaSubline": "Get a free, no-obligation roofing inspection and estimate. Call now!"
+    },
+    "services": [
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Fast, reliable roof repair services for El Paso homes.",
+        "description": "From minor leaks to storm damage, A-1 Roofing provides comprehensive roof repair services. We understand the urgency of roof repairs, especially with El Paso's intense sun and occasional heavy rains, which can quickly exacerbate existing problems. Our experienced technicians thoroughly assess the damage, identify the source of the problem, and provide effective, lasting solutions. We work with all types of roofing materials, including tile, shingle, metal, and flat roofing systems common in the area. \n\nOur roof repair services include leak detection and repair, shingle replacement, tile repair, flashing repair, and storm damage repair. We use only high-quality materials to ensure the longevity of our repairs. We take pride in our attention to detail and commitment to customer satisfaction. We offer emergency repair services for urgent situations, providing peace of mind when you need it most.\n\nWhether you have a small leak or significant damage, A-1 Roofing is here to help. We provide prompt, reliable, and affordable roof repair services to protect your home and investment.",
+        "process": [
+          "Step 1: Inspection - Thorough assessment of your roof's condition.",
+          "Step 2: Diagnosis - Identifying the source and extent of the damage.",
+          "Step 3: Repair Plan - Developing a customized repair plan with transparent pricing.",
+          "Step 4: Execution - Performing the repairs with quality materials and expert craftsmanship."
+        ],
+        "benefits": [
+          "Prevents further damage to your home.",
+          "Extends the lifespan of your roof.",
+          "Maintains your home's value.",
+          "Provides peace of mind."
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to a roof leak?",
+            "answer": "We offer emergency repair services and strive to respond to urgent requests as quickly as possible. Call us immediately, and we'll dispatch a team to assess the situation."
+          },
+          {
+            "question": "Do you offer free estimates for roof repairs?",
+            "answer": "Yes, we provide free, no-obligation estimates for all roof repair services. We'll thoroughly inspect your roof and provide a detailed estimate of the cost and scope of the work."
+          },
+          {
+            "question": "What types of roofing materials do you repair?",
+            "answer": "We repair all types of roofing materials commonly found in El Paso, including tile, shingle, metal, and flat roofing systems. Our technicians are experienced in working with a variety of materials."
+          }
+        ]
+      },
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Professional roof replacement services for lasting protection.",
+        "description": "When roof repairs are no longer sufficient, A-1 Roofing offers complete roof replacement services. A new roof is a significant investment, and we are committed to providing our clients with the highest quality materials and workmanship. We understand the importance of choosing the right roofing system for your home and budget, considering El Paso's hot climate and unique architectural styles. \n\nOur roof replacement process begins with a thorough inspection of your existing roof to assess its condition and identify any underlying issues. We then work with you to select the best roofing material for your needs, offering a wide range of options, including asphalt shingles, tile, metal, and flat roofing systems. We handle all aspects of the roof replacement, from tear-off and disposal of the old roof to installation of the new roofing system. We ensure proper ventilation, insulation, and flashing to protect your home from the elements.\n\nWe are committed to providing a seamless and stress-free roof replacement experience. Our team is professional, efficient, and respectful of your property. We take pride in our attention to detail and commitment to customer satisfaction. We offer competitive pricing and financing options to make roof replacement affordable.",
+        "process": [
+          "Step 1: Consultation - Discussing your roofing needs and preferences.",
+          "Step 2: Material Selection - Choosing the right roofing material for your home.",
+          "Step 3: Installation - Expert installation of your new roofing system.",
+          "Step 4: Cleanup - Thorough cleanup and disposal of old materials."
+        ],
+        "benefits": [
+          "Increases your home's value.",
+          "Enhances your home's curb appeal.",
+          "Provides long-lasting protection from the elements.",
+          "Improves energy efficiency."
+        ],
+        "faq": [
+          {
+            "question": "How long does a roof replacement typically take?",
+            "answer": "The duration of a roof replacement depends on the size and complexity of the roof, as well as the type of roofing material. Most roof replacements can be completed in 1-3 days."
+          },
+          {
+            "question": "Do you offer warranties on roof replacements?",
+            "answer": "Yes, we offer comprehensive warranties on all roof replacements. Our warranties cover both materials and workmanship, providing you with peace of mind."
+          },
+          {
+            "question": "Will you handle the permitting process?",
+            "answer": "Yes, we will handle all necessary permits for your roof replacement project. We are familiar with local building codes and regulations and will ensure that your project is compliant."
+          }
+        ]
+      },
+      {
+        "slug": "roof-inspections",
+        "name": "Roof Inspections",
+        "shortDescription": "Comprehensive roof inspections to identify potential problems.",
+        "description": "Regular roof inspections are essential for maintaining the integrity of your roof and preventing costly repairs. A-1 Roofing offers thorough roof inspection services to identify potential problems early on. Our certified inspectors are trained to identify a wide range of issues, including leaks, damaged shingles, cracked tiles, and deteriorated flashing. We understand the unique challenges that El Paso's climate presents to roofing systems, such as extreme heat, UV radiation, and occasional hailstorms.\n\nOur roof inspection process involves a visual inspection of the entire roofing system, including the roof surface, flashing, gutters, and downspouts. We use advanced technology, such as drones and infrared cameras, to detect hidden problems. We provide a detailed written report outlining our findings, including photographs and recommendations for repair or maintenance.\n\nWhether you are buying or selling a home, or simply want to ensure the health of your roof, A-1 Roofing is here to help. We offer affordable and reliable roof inspection services to protect your investment.",
+        "process": [
+          "Step 1: Visual Inspection - Thorough examination of the roof's surface and components.",
+          "Step 2: Detailed Report - Providing a comprehensive report with findings and recommendations.",
+          "Step 3: Consultation - Discussing the inspection results and answering your questions.",
+          "Step 4: Preventative Measures - Recommending preventative measures to extend the life of your roof."
+        ],
+        "benefits": [
+          "Identifies potential problems early on.",
+          "Prevents costly repairs.",
+          "Extends the lifespan of your roof.",
+          "Provides peace of mind."
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, or after any major weather event, such as a hailstorm or heavy rain."
+          },
+          {
+            "question": "What is included in a roof inspection report?",
+            "answer": "Our roof inspection reports include a detailed description of the roof's condition, photographs of any identified problems, and recommendations for repair or maintenance."
+          },
+          {
+            "question": "Can you provide a roof certification after the inspection?",
+            "answer": "Yes, we can provide a roof certification after the inspection, if requested. A roof certification confirms the condition of the roof and its expected lifespan."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Services",
+        "shortDescription": "Gutter installation, repair, and cleaning to protect your home.",
+        "description": "A-1 Roofing offers comprehensive gutter services to protect your home from water damage. Gutters play a crucial role in diverting rainwater away from your foundation, preventing erosion, and protecting your landscaping. We understand the importance of properly functioning gutters, especially in El Paso's arid climate, where infrequent but intense rainfall can cause significant damage.\n\nOur gutter services include gutter installation, repair, and cleaning. We offer a wide range of gutter styles and materials to complement your home's architecture. Our experienced technicians ensure proper installation and alignment to maximize water flow. We also provide gutter cleaning services to remove leaves, debris, and other obstructions that can cause clogs and backups. \n\nWhether you need new gutters installed or your existing gutters repaired or cleaned, A-1 Roofing is here to help. We provide prompt, reliable, and affordable gutter services to protect your home and investment.",
+        "process": [
+          "Step 1: Assessment - Evaluating your gutter needs and providing recommendations.",
+          "Step 2: Installation/Repair - Installing new gutters or repairing existing ones.",
+          "Step 3: Cleaning - Removing debris and ensuring proper water flow.",
+          "Step 4: Maintenance - Providing tips for maintaining your gutters."
+        ],
+        "benefits": [
+          "Protects your foundation from water damage.",
+          "Prevents erosion.",
+          "Protects your landscaping.",
+          "Extends the lifespan of your roof."
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, or more often if you have trees near your home."
+          },
+          {
+            "question": "What types of gutters do you install?",
+            "answer": "We install a wide range of gutter styles and materials, including aluminum, steel, and copper gutters."
+          },
+          {
+            "question": "Do you offer gutter guard installation?",
+            "answer": "Yes, we offer gutter guard installation to prevent leaves and debris from clogging your gutters."
+          }
+        ]
+      },
+      {
+        "slug": "flat-roofing",
+        "name": "Flat Roofing Services",
+        "shortDescription": "Expert flat roofing installation and repair for commercial and residential buildings.",
+        "description": "A-1 Roofing specializes in flat roofing systems, offering expert installation, repair, and maintenance services for both commercial and residential buildings in El Paso. Flat roofs require specialized knowledge and techniques to ensure proper drainage and prevent leaks, which are critical in our desert environment. We understand the unique challenges of flat roofs, including ponding water, UV exposure, and temperature fluctuations.\n\nOur flat roofing services include TPO, PVC, modified bitumen, and built-up roofing systems. We use only high-quality materials and proven techniques to ensure the longevity and performance of your flat roof. We provide thorough inspections to identify potential problems early on and offer customized solutions to meet your specific needs.\n\nWhether you need a new flat roof installed or your existing flat roof repaired or maintained, A-1 Roofing is here to help. We provide reliable and affordable flat roofing services to protect your building and investment.",
+        "process": [
+          "Step 1: Consultation - Discussing your roofing needs and preferences.",
+          "Step 2: Material Selection - Choosing the right flat roofing material for your building.",
+          "Step 3: Installation - Expert installation of your new flat roofing system.",
+          "Step 4: Maintenance - Providing ongoing maintenance to extend the life of your flat roof."
+        ],
+        "benefits": [
+          "Provides a durable and waterproof roofing solution.",
+          "Offers energy efficiency benefits.",
+          "Increases the value of your building.",
+          "Requires minimal maintenance."
+        ],
+        "faq": [
+          {
+            "question": "What are the advantages of a flat roof?",
+            "answer": "Flat roofs are cost-effective, energy-efficient, and easy to maintain. They also provide a versatile platform for solar panels and other equipment."
+          },
+          {
+            "question": "How long does a flat roof typically last?",
+            "answer": "The lifespan of a flat roof depends on the roofing material and the quality of installation. With proper maintenance, a flat roof can last for 20-30 years."
+          },
+          {
+            "question": "Do you offer warranties on flat roof installations?",
+            "answer": "Yes, we offer comprehensive warranties on all flat roof installations, covering both materials and workmanship."
+          }
+        ]
+      },
+      {
+        "slug": "storm-damage",
+        "name": "Storm Damage Repair",
+        "shortDescription": "Reliable storm damage repair services to restore your roof quickly.",
+        "description": "El Paso can experience intense thunderstorms and occasional hail, which can cause significant damage to roofs. A-1 Roofing provides prompt and reliable storm damage repair services to restore your roof quickly and efficiently. We understand the urgency of storm damage repairs and offer 24/7 emergency services to protect your home from further damage.\n\nOur storm damage repair services include roof inspections, leak detection, shingle replacement, tile repair, and flashing repair. We work with all types of roofing materials and can handle any size project. We also assist with insurance claims, providing documentation and support to ensure a smooth and hassle-free process.\n\nWhether your roof has been damaged by hail, wind, or rain, A-1 Roofing is here to help. We provide expert storm damage repair services to protect your home and restore your peace of mind.",
+        "process": [
+          "Step 1: Emergency Response - Providing immediate assistance to protect your home.",
+          "Step 2: Damage Assessment - Thoroughly inspecting the roof to assess the extent of the damage.",
+          "Step 3: Insurance Claim Assistance - Helping you file and process your insurance claim.",
+          "Step 4: Repair Execution - Performing the repairs with quality materials and expert craftsmanship."
+        ],
+        "benefits": [
+          "Prevents further damage to your home.",
+          "Restores your roof to its pre-storm condition.",
+          "Provides peace of mind.",
+          "Simplifies the insurance claim process."
+        ],
+        "faq": [
+          {
+            "question": "What should I do if my roof is damaged in a storm?",
+            "answer": "Contact A-1 Roofing immediately for emergency assistance. We will assess the damage and provide temporary repairs to prevent further damage."
+          },
+          {
+            "question": "Will you work with my insurance company?",
+            "answer": "Yes, we work with all major insurance companies and can assist you with the claims process."
+          },
+          {
+            "question": "How long will it take to repair my roof after a storm?",
+            "answer": "The duration of the repair depends on the extent of the damage. We will provide you with a timeline after assessing the damage to your roof."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "El Paso",
+        "slug": "el-paso-tx",
+        "state": "TX",
+        "content": "A-1 Roofing is proud to serve the El Paso community with top-quality roofing services. We understand the unique challenges that El Paso's climate presents to roofs, from intense sun exposure to occasional heavy rains. Our experienced team is equipped to handle any roofing project, big or small, ensuring your home or business is protected for years to come.\n\nWe offer a comprehensive range of roofing services in El Paso, including roof repair, roof replacement, new roof installation, and roof maintenance. Whether you need a quick fix for a leaky roof or a complete roof overhaul, A-1 Roofing is the name you can trust. We use only the highest quality materials and employ proven techniques to deliver lasting results.",
+        "localContext": "El Paso's diverse architecture and vibrant culture make it a unique place to live and work, and A-1 Roofing is committed to providing roofing solutions that complement the city's character.",
+        "nearbyAreas": [
+          "Socorro",
+          "Anthony",
+          "Canutillo"
+        ]
+      },
+      {
+        "city": "Socorro",
+        "slug": "socorro-tx",
+        "state": "TX",
+        "content": "A-1 Roofing extends its exceptional roofing services to the residents and businesses of Socorro, TX. We are committed to providing reliable and durable roofing solutions tailored to the specific needs of this community. Our team understands the importance of a well-maintained roof in protecting your property and investment.\n\nWe offer a wide range of services in Socorro, including inspections, repairs, replacements, and new installations. We work with various roofing materials, including shingle, tile, and metal, ensuring we can meet your aesthetic preferences and budget requirements. Our commitment to quality craftsmanship and customer satisfaction sets us apart.",
+        "localContext": "Socorro's rich history and close-knit community make it a wonderful place to call home, and A-1 Roofing is dedicated to serving its residents with integrity and professionalism.",
+        "nearbyAreas": [
+          "El Paso",
+          "Horizon City",
+          "Clint"
+        ]
+      },
+      {
+        "city": "Horizon City",
+        "slug": "horizon-city-tx",
+        "state": "TX",
+        "content": "A-1 Roofing is dedicated to providing Horizon City, TX, with superior roofing services. We recognize that the intense Texas climate can be hard on roofs, and we're here to offer solutions that stand the test of time. Our team is experienced in handling all types of roofing projects, from minor repairs to complete replacements.\n\nWe offer a full suite of roofing services to Horizon City residents, including leak detection, shingle replacement, and full roof installations. We work with a variety of roofing materials to suit your needs and budget. We pride ourselves on our commitment to quality and customer satisfaction.",
+        "localContext": "Horizon City's rapid growth and family-friendly atmosphere make it a thriving community, and A-1 Roofing is proud to contribute to its continued success by providing reliable roofing services.",
+        "nearbyAreas": [
+          "El Paso",
+          "Socorro",
+          "Clint"
+        ]
+      },
+      {
+        "city": "Anthony",
+        "slug": "anthony-tx",
+        "state": "TX",
+        "content": "A-1 Roofing is pleased to offer our expert roofing services to the community of Anthony, TX. We understand the importance of having a reliable roof to protect your home or business, and we are committed to providing high-quality workmanship and exceptional customer service.\n\nOur services in Anthony include roof inspections, repairs, replacements, and new installations. We work with all types of roofing materials and offer customized solutions to meet your specific needs. We are dedicated to ensuring your complete satisfaction with our work.",
+        "localContext": "Anthony's small-town charm and strong community spirit make it a special place, and A-1 Roofing is honored to serve its residents with reliable and affordable roofing solutions.",
+        "nearbyAreas": [
+          "El Paso",
+          "Canutillo",
+          "Sunland Park"
+        ]
+      },
+      {
+        "city": "Canutillo",
+        "slug": "canutillo-tx",
+        "state": "TX",
+        "content": "A-1 Roofing is proud to serve the Canutillo, TX area with professional and reliable roofing services. We know the local weather can be tough on roofs, and we are equipped to handle any roofing issue, from minor leaks to full replacements. We are committed to providing the highest quality workmanship and customer service.\n\nWe offer a comprehensive range of roofing services in Canutillo, including inspections, repairs, replacements, and new installations. We work with a variety of roofing materials to meet your needs and budget. We are dedicated to ensuring your complete satisfaction with our work.",
+        "localContext": "Canutillo's agricultural heritage and close proximity to El Paso make it a unique community, and A-1 Roofing is dedicated to providing roofing solutions that protect its homes and businesses.",
+        "nearbyAreas": [
+          "El Paso",
+          "Anthony",
+          "Vinton"
+        ]
+      },
+      {
+        "city": "Clint",
+        "slug": "clint-tx",
+        "state": "TX",
+        "content": "A-1 Roofing provides top-notch roofing services to the residents of Clint, TX, understanding the specific needs of homes and businesses in this area. We're dedicated to delivering quality workmanship and exceptional customer care, ensuring your roof is in its best condition.\n\nOur services in Clint include thorough roof inspections, efficient repairs, complete roof replacements, and new installations. We are experienced with a variety of roofing materials, offering customized solutions that match your style and budget. Our commitment is to your complete satisfaction.",
+        "localContext": "Clint's rural setting and tight-knit community create a unique atmosphere, and A-1 Roofing is proud to offer roofing services that contribute to the security and beauty of its homes.",
+        "nearbyAreas": [
+          "Socorro",
+          "Horizon City",
+          "Fabens"
+        ]
+      },
+      {
+        "city": "Fabens",
+        "slug": "fabens-tx",
+        "state": "TX",
+        "content": "A-1 Roofing is committed to offering reliable and professional roofing services to the Fabens, TX community. We understand that a sturdy roof is essential for protecting your property and family, and we strive to deliver top-quality workmanship and customer satisfaction.\n\nOur range of services in Fabens encompasses roof inspections, repairs, replacements, and new installations. We work with various roofing materials, tailoring our solutions to meet your specific needs and budget. We ensure that every project is completed to the highest standards.",
+        "localContext": "Fabens' agricultural roots and strong community spirit make it a unique place, and A-1 Roofing is dedicated to providing roofing solutions that protect its homes and businesses from the elements.",
+        "nearbyAreas": [
+          "Clint",
+          "Tornillo",
+          "San Elizario"
+        ]
+      },
+      {
+        "city": "Tornillo",
+        "slug": "tornillo-tx",
+        "state": "TX",
+        "content": "A-1 Roofing is proud to extend its expert roofing services to the residents and businesses of Tornillo, TX. We are dedicated to providing reliable and durable roofing solutions tailored to the specific needs of this community. Our team understands the importance of a well-maintained roof in protecting your property and investment.\n\nWe offer a wide range of services in Tornillo, including inspections, repairs, replacements, and new installations. We work with various roofing materials, including shingle, tile, and metal, ensuring we can meet your aesthetic preferences and budget requirements. Our commitment to quality craftsmanship and customer satisfaction sets us apart.",
+        "localContext": "Tornillo's agricultural heritage and border town charm make it a unique community, and A-1 Roofing is dedicated to serving its residents with integrity and professionalism.",
+        "nearbyAreas": [
+          "Fabens",
+          "San Elizario",
+          "Fort Hancock"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "A-1 Roofing fixed a bad leak in my roof after the summer monsoons. They were fast, professional, and the price was fair. I highly recommend them!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 4,
+        "service": "Gutter Cleaning",
+        "text": "The team from A-1 Roofing did a great job cleaning my gutters. They were clogged with leaves and debris, and now they're flowing perfectly. Good price, good service.",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Linda S.",
+        "rating": 5,
+        "service": "Roof Inspection",
+        "text": "I needed a roof inspection for a home I was buying. A-1 Roofing was thorough, professional, and the report was easy to understand. Helped me make an informed decision.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Roof Replacement",
+        "text": "A-1 Roofing replaced my entire roof after the last hailstorm. They were efficient, used quality materials, and cleaned up everything afterward. Looks great!",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Patricia M.",
+        "rating": 4,
+        "service": "Flat Roof Repair",
+        "text": "I had a persistent leak in my flat roof. A-1 Roofing found the source and repaired it quickly. They explained everything clearly and the price was reasonable.",
+        "date": "2025-03-18"
+      },
+      {
+        "name": "Jose R.",
+        "rating": 5,
+        "service": "Storm Damage Repair",
+        "text": "After a bad windstorm, A-1 Roofing came out and secured my damaged roof. They worked with my insurance company and got the repairs done fast. Excellent service.",
+        "date": "2025-02-25"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "A-1 Roofing | El Paso, TX",
+        "description": "El Paso's reliable roofing contractor. Roof repair, replacement, inspections. Free estimates. Protect your home today!"
+      },
+      "about": {
+        "title": "About A-1 Roofing | El Paso, TX",
+        "description": "Learn about A-1 Roofing's commitment to quality roofing services in El Paso. Experienced, local, and dedicated to your satisfaction."
+      },
+      "services": {
+        "title": "A-1 Roofing Services | El Paso, TX",
+        "description": "Comprehensive roofing services in El Paso, TX. Repair, replacement, inspections, gutters. Protect your home with A-1 Roofing."
+      },
+      "contact": {
+        "title": "Contact A-1 Roofing | El Paso, TX",
+        "description": "Contact A-1 Roofing for a free estimate. Serving El Paso and surrounding areas. Call us today!"
+      },
+      "reviews": {
+        "title": "A-1 Roofing Reviews | El Paso, TX",
+        "description": "Read what our customers are saying about A-1 Roofing. Quality roofing services in El Paso, TX. Customer satisfaction guaranteed."
+      },
+      "service-areas": {
+        "title": "A-1 Roofing Service Areas",
+        "description": "A-1 Roofing serves El Paso and surrounding areas. Reliable roofing services for your home or business. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-repair": "/images/service-roof-repair.webp",
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "roof-inspections": "/images/service-roof-inspections.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "flat-roofing": "/images/service-flat-roofing.webp",
+      "storm-damage": "/images/service-storm-damage.webp"
+    },
+    "servicesResponsive": {
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-inspections": {
+        "src": "/images/service-roof-inspections.webp",
+        "srcset": "/images/service-roof-inspections-400w.webp 400w, /images/service-roof-inspections-800w.webp 800w, /images/service-roof-inspections-1200w.webp 1200w, /images/service-roof-inspections.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "flat-roofing": {
+        "src": "/images/service-flat-roofing.webp",
+        "srcset": "/images/service-flat-roofing-400w.webp 400w, /images/service-flat-roofing-800w.webp 800w, /images/service-flat-roofing-1200w.webp 1200w, /images/service-flat-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "storm-damage": {
+        "src": "/images/service-storm-damage.webp",
+        "srcset": "/images/service-storm-damage-400w.webp 400w, /images/service-storm-damage-800w.webp 800w, /images/service-storm-damage-1200w.webp 1200w, /images/service-storm-damage.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
